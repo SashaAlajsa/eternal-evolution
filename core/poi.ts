@@ -4,3 +4,10 @@ export interface POI {
   explored: boolean;
   knowledgeYield: KnowledgeYield;
 }
+
+export interface KnowledgeYield {
+  survival?: number;
+  tools?: number;
+  social?: number;
+}
+
