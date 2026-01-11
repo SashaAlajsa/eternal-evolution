@@ -1,0 +1,12 @@
+{
+  "name": "eternal-evolution",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
